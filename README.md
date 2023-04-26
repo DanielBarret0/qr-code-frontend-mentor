@@ -1,17 +1,10 @@
-# Nome do meu projeto
+# 🗒️ Desafio Front=end Mentor | QR Code
 
-Rápida descrição do objetivo de fazer esse projeto
-
-| :placard: Vitrine.Dev |     |
+| 🪧 Vitrine.Dev |  [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/danielbarreto)   |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+| ✨: Nome        | QR Code component
+| 🏷️ Tecnologias | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+| 🚀: URL         | [QRCode]()
+| 🔥 Desafio     | [Conheça o Front-end Mentor]()
+| :laughing: Extras feito     | **Coloquei um QR Code fumcional que leva para uma página pessoal minha com meus contatos e redes.**
+| :page_with_curl: Licença         | [<img src="https://img.shields.io/badge/LICENSE-MIT-green"/>](https://choosealicense.com/licenses/mit/) 
