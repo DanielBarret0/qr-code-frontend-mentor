@@ -4,7 +4,7 @@
 | -------------  | --- |
 | ✨: Nome        | QR Code component
 | 🏷️ Tecnologias | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-| 🚀: URL         | [QRCode]()
+| 🚀: URL         | [QRCode](https://qrcode-front-end-mentor.bohr.io)
 | 🔥 Desafio     | [Conheça o Front-end Mentor](https://www.frontendmentor.io/home)
 | :laughing: Extras feito     | **Coloquei um QR Code fumcional que leva para uma página pessoal minha com meus contatos e redes.**
 | :page_with_curl: Licença         | [<img src="https://img.shields.io/badge/LICENSE-MIT-green"/>](https://choosealicense.com/licenses/mit/) 
