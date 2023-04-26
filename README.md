@@ -8,3 +8,23 @@
 | 🔥 Desafio     | [Conheça o Front-end Mentor]()
 | :laughing: Extras feito     | **Coloquei um QR Code fumcional que leva para uma página pessoal minha com meus contatos e redes.**
 | :page_with_curl: Licença         | [<img src="https://img.shields.io/badge/LICENSE-MIT-green"/>](https://choosealicense.com/licenses/mit/) 
+
+
+
+# 🎨 Projeto no Front-end Mentor
+Acesse esse projeto aqui [Frton-end Mentor]()
+
+<img src="">
+
+# 📑 O projeto QR Code
+
+# 🤯 Minha experiência
+
+## ⭐ Layout completamente responsivo
+![Gif do site]()
+
+
+# 🖼️ Banner do VitrineDev
+<div align="center">
+<img src="#vitrinedev">
+</div>
