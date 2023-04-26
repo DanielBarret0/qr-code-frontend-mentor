@@ -12,19 +12,24 @@
 
 
 # 🎨 Projeto no Front-end Mentor
-Acesse esse projeto aqui [Frton-end Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+Acesse esse projeto aqui [Front-end Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
-<img src="">
+<img src="https://github.com/DanielBarret0/qr-code-frontend-mentor/blob/main/assets/gif/desktop-design.jpg">
 
 # 📑 O projeto QR Code
 
+Meu desafio é construir esse componente de código QR e fazê-lo parecer o mais próximo possível do design.
+Pode usar as ferramentas que quiser para ajudá-lo a completar o desafio. Então, se você tem algo que gostaria de praticar, sinta-se à vontade para experimentar.
+
 # 🤯 Minha experiência
 
+Estou começando nesses desafios da plataforma Front end Mentor e vou sempre fazer algum projeto que nesse começo é simples, mas o intuito é praticar e fazer algumas coisas novas e vou sempre dá um toque pessoal em cada um.
+
 ## ⭐ Layout completamente responsivo
-![Gif do site]()
+![Gif do site](https://github.com/DanielBarret0/qr-code-frontend-mentor/blob/main/assets/gif/gif-responsivo.gif)
 
 
 # 🖼️ Banner do VitrineDev
 <div align="center">
-<img src="#vitrinedev">
+<img src="https://github.com/DanielBarret0/qr-code-frontend-mentor/blob/main/assets/gif/layout.png#vitrinedev">
 </div>
