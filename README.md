@@ -1,4 +1,4 @@
-# 🗒️ Desafio Front=end Mentor | QR Code
+# 🗒️ Desafio Front-end Mentor | QR Code
 
 | 🪧 Vitrine.Dev |  [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/danielbarreto)   |
 | -------------  | --- |
